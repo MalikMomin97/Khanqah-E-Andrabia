@@ -222,6 +222,8 @@ export const AboutPage: React.FC = () => {
                   title="Astaan Hazrat Mir Syed Kamal-ud-Din Andrabi (R.A.) - Sonwar Bagh, Srinagar"
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                   allowFullScreen
+                  referrerPolicy="strict-origin-when-cross-origin"
+                  loading="lazy"
                   className="w-full h-full border-0"
                 />
               </div>
