@@ -1,0 +1,173 @@
+{
+  "astaan-hero": {
+    "id": "astaan-hero",
+    "filename": "astaan-hero.jpg",
+    "originalPath": "/images/astaan-hero.jpg",
+    "title": "Astaan Hazrat Mir Syed Kamal-ud-Din Andrabi (R.A.) - Sonwar Srinagar",
+    "subtitle": "The historic Kashmiri deodar timber facade and peaceful prayer sanctuary in Sonwar Bagh, Srinagar.",
+    "aspectRatio": "585/390",
+    "dimensions": {
+      "width": 585,
+      "height": 390
+    },
+    "base64Placeholder": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAQBACdASoYABAAPzmGuVOvKSWisAgB4CcJZQC7ACHhXDW99JfpbPfKcAD8tJjg5J/9qVvUfyJMposB28H+BBHYxrZFbm+pB+4kaymCcpu05sFtnUpfukLEQAA=",
+    "variants": [
+      {
+        "width": 400,
+        "height": 267,
+        "path": "/images/optimized/astaan-hero-400w.webp",
+        "format": "webp",
+        "sizeBytes": 24024
+      },
+      {
+        "width": 585,
+        "height": 390,
+        "path": "/images/optimized/astaan-hero-585w.webp",
+        "format": "webp",
+        "sizeBytes": 51540
+      }
+    ],
+    "srcSet": "/images/optimized/astaan-hero-400w.webp 400w, /images/optimized/astaan-hero-585w.webp 585w"
+  },
+  "historical-document-shajarah": {
+    "id": "historical-document-shajarah",
+    "filename": "historical-document-shajarah.jpg",
+    "originalPath": "/images/historical-document-shajarah.jpg",
+    "title": "Certified Historical Document & Genealogical Tree",
+    "subtitle": "Framed archival chronicle titled \"Hazrat Mir Syed Kamal-ud-Din Andrabi: In the Mirror of Kashmir History & Awliya Allah\" with 8-generation lineage and Wisal record.",
+    "aspectRatio": "4096/3072",
+    "dimensions": {
+      "width": 4096,
+      "height": 3072
+    },
+    "base64Placeholder": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAABQBACdASoYABIAPzmOwVevKaejqAqp4CcJZwDGQA+4tExdemZHs2fw0f4AAP6bj6PsGcLAEU+vfUP5g3rge0Q7cAoXxo1U4TLNzvpAxT0fYjH/FM3tqEdT9FuVxFDIZDYTV6pmmEAAAA==",
+    "variants": [
+      {
+        "width": 400,
+        "height": 300,
+        "path": "/images/optimized/historical-document-shajarah-400w.webp",
+        "format": "webp",
+        "sizeBytes": 25728
+      },
+      {
+        "width": 800,
+        "height": 600,
+        "path": "/images/optimized/historical-document-shajarah-800w.webp",
+        "format": "webp",
+        "sizeBytes": 99568
+      },
+      {
+        "width": 1200,
+        "height": 900,
+        "path": "/images/optimized/historical-document-shajarah-1200w.webp",
+        "format": "webp",
+        "sizeBytes": 211810
+      },
+      {
+        "width": 1600,
+        "height": 1200,
+        "path": "/images/optimized/historical-document-shajarah-1600w.webp",
+        "format": "webp",
+        "sizeBytes": 349892
+      },
+      {
+        "width": 4096,
+        "height": 3072,
+        "path": "/images/optimized/historical-document-shajarah-4096w.webp",
+        "format": "webp",
+        "sizeBytes": 1288530
+      }
+    ],
+    "srcSet": "/images/optimized/historical-document-shajarah-400w.webp 400w, /images/optimized/historical-document-shajarah-800w.webp 800w, /images/optimized/historical-document-shajarah-1200w.webp 1200w, /images/optimized/historical-document-shajarah-1600w.webp 1600w, /images/optimized/historical-document-shajarah-4096w.webp 4096w"
+  },
+  "khanqah-1": {
+    "id": "khanqah-1",
+    "filename": "khanqah-1.jpg",
+    "originalPath": "/images/khanqah-1.jpg",
+    "title": "Plate I: Alpine Backdrop & Winter Sanctuary",
+    "subtitle": "Khanaqah E Andrabia framed beneath the snow-covered peaks of the Zabarwan ridge in Sonwar Bagh.",
+    "aspectRatio": "585/390",
+    "dimensions": {
+      "width": 585,
+      "height": 390
+    },
+    "base64Placeholder": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAQBACdASoYABAAPzmGuVOvKSWisAgB4CcJZQC7ACHhXDW99JfpbPfKcAD8tJjg5J/9qVvUfyJMposB28H+BBHYxrZFbm+pB+4kaymCcpu05sFtnUpfukLEQAA=",
+    "variants": [
+      {
+        "width": 400,
+        "height": 267,
+        "path": "/images/optimized/khanqah-1-400w.webp",
+        "format": "webp",
+        "sizeBytes": 24024
+      },
+      {
+        "width": 585,
+        "height": 390,
+        "path": "/images/optimized/khanqah-1-585w.webp",
+        "format": "webp",
+        "sizeBytes": 51540
+      }
+    ],
+    "srcSet": "/images/optimized/khanqah-1-400w.webp 400w, /images/optimized/khanqah-1-585w.webp 585w"
+  },
+  "khanqah-2": {
+    "id": "khanqah-2",
+    "filename": "khanqah-2.jpg",
+    "originalPath": "/images/khanqah-2.jpg",
+    "title": "Plate II: The Pagoda Spire & Golden Finial",
+    "subtitle": "Close architectural study of the Kashmiri wooden lantern pagoda (Burj) capped by the golden crescent (Alam).",
+    "aspectRatio": "585/390",
+    "dimensions": {
+      "width": 585,
+      "height": 390
+    },
+    "base64Placeholder": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAQBACdASoYABAAPzmEulOvKKWisAgB4CcJQBOgBDeCfjUUQUpwHyz8AAD+0ykSqSgUyfS7FD96TtwYD7W2ZYXGnL74Csj2qjXbBWnX09JjFjAN8FPlyREgf1YrtDnDnK/+ZDAA",
+    "variants": [
+      {
+        "width": 400,
+        "height": 267,
+        "path": "/images/optimized/khanqah-2-400w.webp",
+        "format": "webp",
+        "sizeBytes": 12856
+      },
+      {
+        "width": 585,
+        "height": 390,
+        "path": "/images/optimized/khanqah-2-585w.webp",
+        "format": "webp",
+        "sizeBytes": 22834
+      }
+    ],
+    "srcSet": "/images/optimized/khanqah-2-400w.webp 400w, /images/optimized/khanqah-2-585w.webp 585w"
+  },
+  "khanqah-3": {
+    "id": "khanqah-3",
+    "filename": "khanqah-3.jpg",
+    "originalPath": "/images/khanqah-3.jpg",
+    "title": "Plate III: Summer Garden Facade & Verandah",
+    "subtitle": "Verdant summer panorama showing the deodar timber lattice joinery and entrance verandah.",
+    "aspectRatio": "519/390",
+    "dimensions": {
+      "width": 519,
+      "height": 390
+    },
+    "base64Placeholder": "data:image/webp;base64,UklGRpgAAABXRUJQVlA4IIwAAACwBACdASoYABIAPzmQvVgvKaYjqAqp4CcJYwC90ATZvmrlq9QRZjSc2kgBrhsAAP50xKNA7X3WUU2fzXv6Y5dtKfHAJLNDTw1JMnGWFeAXZT2uR8l7r+GM4GbVu59u+r+o2l99U4iY4G/qoQcdHkjIhS4KPZS+4aiKQPAl1hyIeUo3/gM9cjYQuXz+AA==",
+    "variants": [
+      {
+        "width": 400,
+        "height": 301,
+        "path": "/images/optimized/khanqah-3-400w.webp",
+        "format": "webp",
+        "sizeBytes": 41370
+      },
+      {
+        "width": 519,
+        "height": 390,
+        "path": "/images/optimized/khanqah-3-519w.webp",
+        "format": "webp",
+        "sizeBytes": 72208
+      }
+    ],
+    "srcSet": "/images/optimized/khanqah-3-400w.webp 400w, /images/optimized/khanqah-3-519w.webp 519w"
+  }
+}
